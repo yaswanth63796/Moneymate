@@ -62,3 +62,5 @@ Extensive use of Java Collections such as ArrayList, HashMap, and HashSet.
 Implementation of custom exceptions for better error handling.
 
 Multithreading using ScheduledExecutorService for automated reminder
+<img width="8124" height="4384" alt="image" src="https://github.com/user-attachments/assets/62cf0c6f-f272-49dc-ad54-ec9005920122" />
+
